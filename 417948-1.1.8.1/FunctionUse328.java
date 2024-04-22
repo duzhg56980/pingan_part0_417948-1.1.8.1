@@ -1,0 +1,7 @@
+import org.xerial.snappy.pure.PureJavaSnappy;
+public class FunctionUse328 {
+public void funcUse() {
+PureJavaSnappy purejavasnappy = new PureJavaSnappy();
+purejavasnappy.uncompressedLength(null,null,null);
+}
+}
